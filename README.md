@@ -26,5 +26,6 @@ https://github.com/raze10339/Social_Network_API.git
 
 ## walkthrough video
 
+https://drive.google.com/file/d/1FuWO82P8vf-kI9dfEdIVeKnvaVlm80sF/view?usp=sharing
 
 
